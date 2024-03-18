@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vimal923kumar@gmail.com**
 
-- ⚡ Fun fact **I like solving cubes and listening to music**
+- ⚡ Fun fact **I like to solve rubik's cubes and to listen music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
