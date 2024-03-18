@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 
-- 💬 Ask me about **React, JS, Node JS**
+- 💬 Ask me about **JavaScript, React**
 
 - 📫 How to reach me **vimal923kumar@gmail.com**
 
