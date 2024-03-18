@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vk-develops&label=Profile%20views&color=0e75b6&style=flat" alt="vk-develops" /> </p>
 
-- 🌱 I’m currently learning **JAVA DSA**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 
