@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vimal Kumar. V</h1>
-<h3 align="center">A passionate MERN developer, App developer, UI/UX designer from India, looking forward to craft some dynamic eye pleasing web apps with a beautiful interaction and to provide a seamless digital experiences.</h3>
+<h1>Hi 👋, I'm Vimal Kumar. V</h1>
+<h3>A passionate MERN developer, App developer, UI/UX designer from India, looking forward to craft some dynamic eye pleasing web apps with a beautiful interaction and to provide a seamless digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vk-develops&label=Profile%20views&color=0e75b6&style=flat" alt="vk-develops" /> </p>
 
